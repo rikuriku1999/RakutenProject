@@ -3,14 +3,11 @@ import requests
 import pandas as pd
 # config.py
 import config
-import random
 
 api_key = config.HOTPEPPER_API_KEY
 
 i_start = 1
 restaurant_datas=[]
-
-rand_pick = random.randrange(1,30090)
 
 while True:
 	query = {

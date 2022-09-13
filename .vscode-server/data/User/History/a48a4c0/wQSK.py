@@ -3,14 +3,11 @@ import requests
 import pandas as pd
 # config.py
 import config
-import random
 
 api_key = config.HOTPEPPER_API_KEY
 
 i_start = 1
 restaurant_datas=[]
-
-rand_pick = random.randrange(1,30090)
 
 while True:
 	query = {
@@ -18,7 +15,7 @@ while True:
 		'large_area': 'Z011', # 東京
 		'order': 1, #名前の順
 		'start': i_start, #検索結果の何番目から出力するか
-		'count': 100, #最大取得件数
+		'count': 1000, #最大取得件数
 		'format': 'json'
 	}
 	url_base = 'http://webservice.recruit.co.jp/hotpepper/gourmet/v1/'
