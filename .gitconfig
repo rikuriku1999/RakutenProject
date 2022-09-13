@@ -1,0 +1,4 @@
+[user]
+	name = rikuriku1999
+[credential]
+	helper = "!f() { /root/.vscode-server/bin/e4503b30fc78200f846c62cf8091b76ff5547662/node /tmp/vscode-remote-containers-223e859470d52fd1ae9ceb6fea76dbdee30f2061.js $*; }; f"

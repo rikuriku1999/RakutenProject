@@ -1,0 +1,13 @@
+[2022-09-13 02:00:10.674] [remoteagent] [info] Extension host agent started.
+[2022-09-13 02:00:10.830] [remoteagent] [debug] ComputeTargetPlatform: linux-x64
+[2022-09-13 02:00:11.042] [remoteagent] [info] [127.0.0.1][d332707b][ManagementConnection] New connection established.
+[2022-09-13 02:00:11.522] [remoteagent] [info] [127.0.0.1][a7109dad][ExtensionHostConnection] New connection established.
+[2022-09-13 02:00:11.546] [remoteagent] [info] [127.0.0.1][a7109dad][ExtensionHostConnection] <278> Launched Extension Host Process.
+[2022-09-13 02:00:11.952] [remoteagent] [info] Getting Manifest... ms-ceintl.vscode-language-pack-ja
+[2022-09-13 02:00:11.997] [remoteagent] [info] Installing extension: ms-ceintl.vscode-language-pack-ja
+[2022-09-13 02:00:12.847] [remoteagent] [info] Downloaded extension: ms-ceintl.vscode-language-pack-ja /root/.vscode-server/extensionsCache/ms-ceintl.vscode-language-pack-ja-1.70.8170911
+[2022-09-13 02:00:13.092] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.581db917-c70a-4472-99cb-c9d9ab4e9185: ms-ceintl.vscode-language-pack-ja
+[2022-09-13 02:00:13.104] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ja-1.70.8170911
+[2022-09-13 02:00:13.107] [remoteagent] [info] Extracting completed. ms-ceintl.vscode-language-pack-ja
+[2022-09-13 02:00:13.108] [remoteagent] [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ja
+[2022-09-13 02:00:13.180] [remoteagent] [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ja
